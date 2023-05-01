@@ -1,0 +1,70 @@
+{
+  "expo": {
+    "name": "Wealthy",
+    "slug": "wealthy",
+    "owner": "weconnectgroup",
+    "version": "1.0.2",
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ],
+      "@react-native-firebase/app"
+    ],
+    "orientation": "portrait",
+    "icon": "./appassets/logoo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/appbacc.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.weconnectgroup.wealthy",
+      "buildNumber": "2",
+      "infoPlist": {
+        "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
+        "ACCESS_BACKGROUND_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
+        "ACCESS_COARSE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Turning on location service allows us access to show when friends are nearby ",
+        "NSLocationAlwaysUsageDescription": "Turning on location service allows us access to show when friends are nearby ",
+        "NSLocationWhenInUseUsageDescription": "Turning on location service allows us access to show when friends are nearby "
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./appassets/logoo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.weconnectgroup.wealthy",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./appassets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d5bb946e-e587-4b9f-a25b-80fe938d03bf"
+      }
+    }
+  }
+}

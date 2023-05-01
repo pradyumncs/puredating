@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "958579982506",
+    "project_id": "wealthy-6396b",
+    "storage_bucket": "wealthy-6396b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958579982506:android:173c0e101de07ebc0990d3",
+        "android_client_info": {
+          "package_name": "com.weconnectgroup.wealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958579982506-5j1va5tkt9fcn9d47l9p0o5oemlb507v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weconnectgroup.wealthy",
+            "certificate_hash": "c18725aa3f1fdad16dc74ad59197b1b5622ca93a"
+          }
+        },
+        {
+          "client_id": "958579982506-887mhgfhvo6kn9nu6qqr2sueogig4jrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weconnectgroup.wealthy",
+            "certificate_hash": "467742373fe90a7541d47923e7b77d99ad2ab726"
+          }
+        },
+        {
+          "client_id": "958579982506-fok121e36ooehfdnlgqcrga7a6c8uhtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weconnectgroup.wealthy",
+            "certificate_hash": "c76c1a58acb46600808ac58015f7d30e742b7fb5"
+          }
+        },
+        {
+          "client_id": "958579982506-nnjrhdgim8vj5c7ac06mnrop4io04886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weconnectgroup.wealthy",
+            "certificate_hash": "70ad23a2994f27fe05820fe10f46c3cbe4de35a3"
+          }
+        },
+        {
+          "client_id": "958579982506-67atopbnknjqn7anunr330l53f8pv3uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjF2Ja6X9NAJUWCN-b8_2VJajsxZ2WCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958579982506-67atopbnknjqn7anunr330l53f8pv3uf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958579982506-bvm51lpa3ebbdi8ikr2uv42gkck0rjck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weconnectgroup.wealthy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
