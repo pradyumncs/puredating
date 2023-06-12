@@ -29,6 +29,7 @@ import PremiumCongrats from './Premium/PremiumCongrats';
 import PremiumEntry from './Premium/PremiumEntry';
 import PremiumEntryPremium from './Premium/PremiumEntryPremium';
 import Welcome from './screens/Welcome';
+import Pdfs from './screens/Pdfs';
 const Stack = createNativeStackNavigator();
 
 
@@ -44,7 +45,7 @@ const StackNavigator = () => {
         <Stack.Navigator screenOptions={{ headerShown: false }}>
             {user ? (
                 <>
-                    <Stack.Group>
+                 <Stack.Group>
                         <Stack.Screen name="BottomNavigation" component={BottomNavigation} />
                         <Stack.Screen name="First" component={FirstScreen} />
                         <Stack.Screen name="Welcome" component={Welcome} />
@@ -56,13 +57,15 @@ const StackNavigator = () => {
                         <Stack.Screen name="PremiumEntryPremium" component={PremiumEntryPremium} />
                     </Stack.Group>
 
-                    <Stack.Group>
+                 <Stack.Group>
                         <Stack.Screen name="Upload" component={Upload} />
                         <Stack.Screen name="Test" component={Test} />
                         <Stack.Screen name="Learn" component={Learn} />
                         <Stack.Screen name="Premium" component={Premium} />
                         <Stack.Screen name="Premiumoffer" component={Premiumoffer} />
                     </Stack.Group>
+                   
+                   
 
 
 

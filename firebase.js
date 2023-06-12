@@ -8,17 +8,14 @@ import { getStorage } from "firebase/storage";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDoSGChtYE9qJ30HNHNAoqh1lKZKKWDTuc",
-    authDomain: "wealthy-6396b.firebaseapp.com",
-    projectId: "wealthy-6396b",
-    storageBucket: "wealthy-6396b.appspot.com",
-    messagingSenderId: "958579982506",
-    appId: "1:958579982506:web:e6fd6f93d03054820990d3",
-    measurementId: "G-9TE8HQE3TK"
-};
-
-
-
+    apiKey: "AIzaSyBNZ_ZxpMy9C0EJH5_lrEAeoDOP-vTdMoU",
+    authDomain: "social-love-dedbe.firebaseapp.com",
+    projectId: "social-love-dedbe",
+    storageBucket: "social-love-dedbe.appspot.com",
+    messagingSenderId: "476163531178",
+    appId: "1:476163531178:web:5c9b4f511fec0308830bd3",
+    measurementId: "G-DFWE6P31RJ"
+  };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);

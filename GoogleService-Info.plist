@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>958579982506-bvm51lpa3ebbdi8ikr2uv42gkck0rjck.apps.googleusercontent.com</string>
+	<string>476163531178-aep91slfcbirlvbv4u83dlrcpu7ll0bp.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.958579982506-bvm51lpa3ebbdi8ikr2uv42gkck0rjck</string>
+	<string>com.googleusercontent.apps.476163531178-aep91slfcbirlvbv4u83dlrcpu7ll0bp</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>958579982506-5j1va5tkt9fcn9d47l9p0o5oemlb507v.apps.googleusercontent.com</string>
+	<string>476163531178-2dj5kqmfg9qf1p1hootlhv68nl5plvop.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAhJuuZs5pkwTzMw7bb8Vg4gKKr5tcsprM</string>
+	<string>AIzaSyAk9BvEQSmDX7wwMdJEcJjIFZUYKFb0rZU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>958579982506</string>
+	<string>476163531178</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.weconnectgroup.wealthy</string>
+	<string>com.shriswapra.sociallove</string>
 	<key>PROJECT_ID</key>
-	<string>wealthy-6396b</string>
+	<string>social-love-dedbe</string>
 	<key>STORAGE_BUCKET</key>
-	<string>wealthy-6396b.appspot.com</string>
+	<string>social-love-dedbe.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:958579982506:ios:dcd60681b2bb5e8b0990d3</string>
+	<string>1:476163531178:ios:8141a0dc5a60244d830bd3</string>
 </dict>
 </plist>

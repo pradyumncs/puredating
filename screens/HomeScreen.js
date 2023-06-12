@@ -220,7 +220,7 @@ const HomeScreen = () => {
 
             let asa = []
             const m = query(ar,)
-            const q = query(m, where("gender", "==", Showmemes), orderBy("timestamp", "desc"), limit(300));
+            const q = query(m, where("gender", "==", Showmemes), orderBy("timestamp", "desc"), limit(200));
 
             unsub = onSnapshot(
                 q,
@@ -515,7 +515,7 @@ const HomeScreen = () => {
                             ref={swipeRef}
                             containerStyle={{ backgroundColor: "transparent" }}
                             cards={profiles}
-                            stackSize={2}
+                            stackSize={5}
                             cardIndex={0}
                             stackSeparation={14}
                             verticalSwipe={true}
@@ -683,7 +683,7 @@ const HomeScreen = () => {
                             ref={swipeRef}
                             containerStyle={{ backgroundColor: "transparent" }}
                             cards={profiles}
-                            stackSize={2}
+                            stackSize={5}
                             cardIndex={0}
                             stackSeparation={14}
                             verticalSwipe={true}

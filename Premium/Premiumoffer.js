@@ -102,7 +102,7 @@ const Premiumoffer = () => {
 
                     <View style={tw(" text-center")}>
                         <Text style={[tw(" text-center"), styles.hyperli]}
-                            onPress={() => { Linking.openURL('https://pages.flycricket.io/italian-match/privacy') }}>
+                            onPress={() => { Linking.openURL('https://justpaste.it/ce78bs') }}>
                             Terms of Use and Privacy policy {"\n"} </Text>
 
                     </View>

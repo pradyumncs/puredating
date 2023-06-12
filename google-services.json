@@ -1,72 +1,72 @@
 {
   "project_info": {
-    "project_number": "958579982506",
-    "project_id": "wealthy-6396b",
-    "storage_bucket": "wealthy-6396b.appspot.com"
+    "project_number": "476163531178",
+    "project_id": "social-love-dedbe",
+    "storage_bucket": "social-love-dedbe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:958579982506:android:173c0e101de07ebc0990d3",
+        "mobilesdk_app_id": "1:476163531178:android:4ef7c2059ccaa47d830bd3",
         "android_client_info": {
-          "package_name": "com.weconnectgroup.wealthy"
+          "package_name": "com.shriswapra.sociallove"
         }
       },
       "oauth_client": [
         {
-          "client_id": "958579982506-5j1va5tkt9fcn9d47l9p0o5oemlb507v.apps.googleusercontent.com",
+          "client_id": "476163531178-2dj5kqmfg9qf1p1hootlhv68nl5plvop.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.wealthy",
-            "certificate_hash": "c18725aa3f1fdad16dc74ad59197b1b5622ca93a"
+            "package_name": "com.shriswapra.sociallove",
+            "certificate_hash": "ea5094ed8e933aa0132b4327ba7725977aa29664"
           }
         },
         {
-          "client_id": "958579982506-887mhgfhvo6kn9nu6qqr2sueogig4jrt.apps.googleusercontent.com",
+          "client_id": "476163531178-lafconphe7p324uks6j4m8f27n9atdl2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.wealthy",
-            "certificate_hash": "467742373fe90a7541d47923e7b77d99ad2ab726"
+            "package_name": "com.shriswapra.sociallove",
+            "certificate_hash": "6576ffc2bc8d233d112bd3ea3216634a521d3b00"
           }
         },
         {
-          "client_id": "958579982506-fok121e36ooehfdnlgqcrga7a6c8uhtm.apps.googleusercontent.com",
+          "client_id": "476163531178-opm74vv749pjcfl7k7e3jg6n2bvflb7c.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.wealthy",
-            "certificate_hash": "c76c1a58acb46600808ac58015f7d30e742b7fb5"
+            "package_name": "com.shriswapra.sociallove",
+            "certificate_hash": "83e2d6ddddce8f984977a6d6e0dd6317e79601a0"
           }
         },
         {
-          "client_id": "958579982506-nnjrhdgim8vj5c7ac06mnrop4io04886.apps.googleusercontent.com",
+          "client_id": "476163531178-sc9ot4bmc1k8mh0kvjso8rl6g0otmq25.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.wealthy",
-            "certificate_hash": "70ad23a2994f27fe05820fe10f46c3cbe4de35a3"
+            "package_name": "com.shriswapra.sociallove",
+            "certificate_hash": "f63b577904619ace5da87d7db7400a9a74bfe71b"
           }
         },
         {
-          "client_id": "958579982506-67atopbnknjqn7anunr330l53f8pv3uf.apps.googleusercontent.com",
+          "client_id": "476163531178-about1sela71etacsoriv9ggk797mctu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDVjF2Ja6X9NAJUWCN-b8_2VJajsxZ2WCU"
+          "current_key": "AIzaSyDT70qf2tHkZ-ZrKgGo0xpnIansC-Jd2Q8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "958579982506-67atopbnknjqn7anunr330l53f8pv3uf.apps.googleusercontent.com",
+              "client_id": "476163531178-about1sela71etacsoriv9ggk797mctu.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "958579982506-bvm51lpa3ebbdi8ikr2uv42gkck0rjck.apps.googleusercontent.com",
+              "client_id": "476163531178-aep91slfcbirlvbv4u83dlrcpu7ll0bp.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.weconnectgroup.wealthy"
+                "bundle_id": "com.shriswapra.sociallove"
               }
             }
           ]

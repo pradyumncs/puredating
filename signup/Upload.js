@@ -86,7 +86,7 @@ const Upload = () => {
     var Showme = "Men"
     var count = 1
 
-    var Country = "USA"
+    var Country = "Philippine"
 
     var gender = "Female"
 
@@ -150,16 +150,16 @@ const Upload = () => {
     const handlesub = async () => {
         setShowed(true)
 
-        var itemsnames = Array("Emily", "Hannah", "Alexis", "Sarah", "Samantha", "Ashley", "Madison", "Taylor", "Jessica", "Elizabeth", "Alyssa", "Lauren", "Kayla", "Brianna", "Megan", "Victoria", "Emma", "Abigail", "Rachel", "Olivia", "Jennifer", "Amanda", "Sydney", "Morgan", "Nicole", "Jasmine", "Grace", "Destiny", "Anna", "Julia", "Haley", "Alexandra", "Kaitlyn", "Natalie", "Brittany", "Katherine", "Stephanie", "Rebecca", "Maria", "Allison", "Amber", "Savannah", "Danielle", "Courtney", "Mary", "Gabrielle", "Brooke", "Jordan", "Sierra", "Sara", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "Y", "Z");
+        var itemsnames = Array( "Maria", "Isabel", "Sofia", "Angelica", "Angela", "Andrea", "Bianca", "Camille", "Carla", "Catherine", "Charlene", "Chona", "Christine", "Clarissa", "Danica", "Daphne", "Diana", "Eileen", "Elaine", "Ellen", "Emily", "Erica", "Erika", "Fatima", "Gabriela", "Geraldine", "Giselle", "Hannah", "Hazel", "Isabelle", "Janine", "Jasmine", "Jennifer", "Jessica", "Jocelyn", "Joyce", "Karen", "Karla", "Katherine", "Kathleen", "Katrina", "Kristine", "Lorna", "Maureen", "Melissa", "Michelle", "Nadine", "Patricia", "Pauline", "Rhea" ,"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "Y", "Z");
         var na = itemsnames[Math.floor(Math.random() * itemsnames.length)];
         var displayName = String(na);
         console.log(displayName)
 
 
-        numz = numberid(10)
+        numz = '09'+ numberid(9)
 
 
-        var items = Array(13, 14, 15, 16, 17, 18, 19);
+        var items = Array(19,20,21,22,23,24,25,26,27,28,29,30,31);
         var a = items[Math.floor(Math.random() * items.length)];
         var age = String(a);
         console.log(age)
@@ -168,7 +168,7 @@ const Upload = () => {
         z = '00' + makeid(27)
 
 
-        image.uri = `https://photodating.s3.ap-south-1.amazonaws.com/fireteens+(${count}).jpg`
+        image.uri = `https://photodating2.s3.ap-south-1.amazonaws.com/filipino+(${count}).jpg`
 
 
         count = count + 1

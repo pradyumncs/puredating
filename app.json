@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Wealthy",
-    "slug": "wealthy",
-    "owner": "weconnectgroup",
-    "version": "1.0.2",
+    "name": "Social Love",
+    "slug": "sociallove",
+    "owner": "shriswapra",
+    "version": "1.0.0",
     "plugins": [
       [
         "expo-build-properties",
@@ -13,6 +13,8 @@
           }
         }
       ],
+
+      
       [
         "expo-image-picker",
         {
@@ -38,8 +40,8 @@
     "ios": {
       "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true,
-      "bundleIdentifier": "com.weconnectgroup.wealthy",
-      "buildNumber": "2",
+      "bundleIdentifier": "com.shriswapra.sociallove",
+      "buildNumber": "1",
       "infoPlist": {
         "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
         "ACCESS_BACKGROUND_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
@@ -55,15 +57,15 @@
         "foregroundImage": "./appassets/logoo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.weconnectgroup.wealthy",
-      "versionCode": 2
+      "package": "com.shriswapra.sociallove",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./appassets/logo.png"
     },
     "extra": {
       "eas": {
-        "projectId": "d5bb946e-e587-4b9f-a25b-80fe938d03bf"
+        "projectId": "bb5a220c-8f77-4c31-8c42-bcac77afae24"
       }
     }
   }

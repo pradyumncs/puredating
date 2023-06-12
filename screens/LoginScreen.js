@@ -110,13 +110,13 @@ const LoginScreen = () => {
                         Learn how we process your data in our {' '}
                         <Text
                             style={styles.hyperli}
-                            onPress={() => { Linking.openURL('https://doc-hosting.flycricket.io/wealthy-privacy-policy/40c2379a-e568-46a5-8d36-6cda8e9c56e0/privacy') }}>
+                            onPress={() => { Linking.openURL('https://justpaste.it/ce78bs') }}>
                             Privacy policy
                         </Text>
                         {"\n"} and {' '}
                         <Text
                             style={styles.hyperli}
-                            onPress={() => { Linking.openURL('https://doc-hosting.flycricket.io/wealthy-terms-of-use/a213a6e7-dcc0-427f-b2ac-72124dbb1598/terms') }}>
+                            onPress={() => { Linking.openURL('https://justpaste.it/ce78bs') }}>
                             Terms of Service.
                         </Text>
 
