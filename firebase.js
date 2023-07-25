@@ -8,15 +8,14 @@ import { getStorage } from "firebase/storage";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBNZ_ZxpMy9C0EJH5_lrEAeoDOP-vTdMoU",
-    authDomain: "social-love-dedbe.firebaseapp.com",
-    projectId: "social-love-dedbe",
-    storageBucket: "social-love-dedbe.appspot.com",
-    messagingSenderId: "476163531178",
-    appId: "1:476163531178:web:5c9b4f511fec0308830bd3",
-    measurementId: "G-DFWE6P31RJ"
+    apiKey: "AIzaSyAIL15hT3MUGaoL5VHHl9PIzO91S36oz2c",
+    authDomain: "bella-e93f4.firebaseapp.com",
+    projectId: "bella-e93f4",
+    storageBucket: "bella-e93f4.appspot.com",
+    messagingSenderId: "519900212025",
+    appId: "1:519900212025:web:486aa55bd5862d197096e8",
+    measurementId: "G-DM5P4E8PCZ"
   };
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth();

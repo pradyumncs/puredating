@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Social Love",
-    "slug": "sociallove",
+    "name": "Bella",
+    "slug": "bella",
     "owner": "shriswapra",
     "version": "1.0.0",
     "plugins": [
@@ -40,7 +40,7 @@
     "ios": {
       "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true,
-      "bundleIdentifier": "com.shriswapra.sociallove",
+      "bundleIdentifier": "com.shriswapra.bella",
       "buildNumber": "1",
       "infoPlist": {
         "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
@@ -57,7 +57,7 @@
         "foregroundImage": "./appassets/logoo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.shriswapra.sociallove",
+      "package": "com.shriswapra.bella",
       "versionCode": 1
     },
     "web": {
@@ -65,7 +65,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "bb5a220c-8f77-4c31-8c42-bcac77afae24"
+        "projectId": "606b9bf1-0adc-40e2-848d-fd50647a346f"
       }
     }
   }

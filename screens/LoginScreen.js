@@ -110,13 +110,13 @@ const LoginScreen = () => {
                         Learn how we process your data in our {' '}
                         <Text
                             style={styles.hyperli}
-                            onPress={() => { Linking.openURL('https://justpaste.it/ce78bs') }}>
+                            onPress={() => { Linking.openURL('https://justpaste.it/412vm') }}>
                             Privacy policy
                         </Text>
                         {"\n"} and {' '}
                         <Text
                             style={styles.hyperli}
-                            onPress={() => { Linking.openURL('https://justpaste.it/ce78bs') }}>
+                            onPress={() => { Linking.openURL('https://justpaste.it/412vm') }}>
                             Terms of Service.
                         </Text>
 

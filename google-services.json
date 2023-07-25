@@ -1,72 +1,72 @@
 {
   "project_info": {
-    "project_number": "476163531178",
-    "project_id": "social-love-dedbe",
-    "storage_bucket": "social-love-dedbe.appspot.com"
+    "project_number": "519900212025",
+    "project_id": "bella-e93f4",
+    "storage_bucket": "bella-e93f4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:476163531178:android:4ef7c2059ccaa47d830bd3",
+        "mobilesdk_app_id": "1:519900212025:android:7ab5a057bbf25bc27096e8",
         "android_client_info": {
-          "package_name": "com.shriswapra.sociallove"
+          "package_name": "com.shriswapra.bella"
         }
       },
       "oauth_client": [
         {
-          "client_id": "476163531178-2dj5kqmfg9qf1p1hootlhv68nl5plvop.apps.googleusercontent.com",
+          "client_id": "519900212025-18v26t3htav7sr36308o6vus19be0q6j.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.sociallove",
-            "certificate_hash": "ea5094ed8e933aa0132b4327ba7725977aa29664"
+            "package_name": "com.shriswapra.bella",
+            "certificate_hash": "d9590a9511be75bbb30b1a5c6b19801fa839c266"
           }
         },
         {
-          "client_id": "476163531178-lafconphe7p324uks6j4m8f27n9atdl2.apps.googleusercontent.com",
+          "client_id": "519900212025-61ea9pehk4pb201biopo217dt6gqavrs.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.sociallove",
-            "certificate_hash": "6576ffc2bc8d233d112bd3ea3216634a521d3b00"
+            "package_name": "com.shriswapra.bella",
+            "certificate_hash": "3c43d0c08908e3a3b012932e3c6ddc6509ae3257"
           }
         },
         {
-          "client_id": "476163531178-opm74vv749pjcfl7k7e3jg6n2bvflb7c.apps.googleusercontent.com",
+          "client_id": "519900212025-gge9npi52v0r92kjcd9mi3u0ek040fi3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.sociallove",
-            "certificate_hash": "83e2d6ddddce8f984977a6d6e0dd6317e79601a0"
+            "package_name": "com.shriswapra.bella",
+            "certificate_hash": "8b534ba463fe64b4d1a74bd815a9c7daa1fe6c85"
           }
         },
         {
-          "client_id": "476163531178-sc9ot4bmc1k8mh0kvjso8rl6g0otmq25.apps.googleusercontent.com",
+          "client_id": "519900212025-t0p2cbps0vgdahod7lau2icb7cbe7aq5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.sociallove",
-            "certificate_hash": "f63b577904619ace5da87d7db7400a9a74bfe71b"
+            "package_name": "com.shriswapra.bella",
+            "certificate_hash": "acb613de89b0655a482ccbcb1e37287e510616c8"
           }
         },
         {
-          "client_id": "476163531178-about1sela71etacsoriv9ggk797mctu.apps.googleusercontent.com",
+          "client_id": "519900212025-157reaj804ndv16de3p517s8qedt4cro.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDT70qf2tHkZ-ZrKgGo0xpnIansC-Jd2Q8"
+          "current_key": "AIzaSyBpxjr7jCjEYpa6Fkud4XDXQdg2W6T-lvY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "476163531178-about1sela71etacsoriv9ggk797mctu.apps.googleusercontent.com",
+              "client_id": "519900212025-157reaj804ndv16de3p517s8qedt4cro.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "476163531178-aep91slfcbirlvbv4u83dlrcpu7ll0bp.apps.googleusercontent.com",
+              "client_id": "519900212025-4utpj85p2vib8vbhvl36s18eedduut46.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.shriswapra.sociallove"
+                "bundle_id": "com.shriswapra.bella"
               }
             }
           ]
