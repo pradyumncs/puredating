@@ -1,72 +1,72 @@
 {
   "project_info": {
-    "project_number": "519900212025",
-    "project_id": "bella-e93f4",
-    "storage_bucket": "bella-e93f4.appspot.com"
+    "project_number": "886937434651",
+    "project_id": "fire-e6439",
+    "storage_bucket": "fire-e6439.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:519900212025:android:7ab5a057bbf25bc27096e8",
+        "mobilesdk_app_id": "1:886937434651:android:a2043401b352be6eb216be",
         "android_client_info": {
-          "package_name": "com.shriswapra.bella"
+          "package_name": "com.weconnectgroup.fire"
         }
       },
       "oauth_client": [
         {
-          "client_id": "519900212025-18v26t3htav7sr36308o6vus19be0q6j.apps.googleusercontent.com",
+          "client_id": "886937434651-0cseju95rnhspit3fjciqurfi0cta7bj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.bella",
-            "certificate_hash": "d9590a9511be75bbb30b1a5c6b19801fa839c266"
+            "package_name": "com.weconnectgroup.fire",
+            "certificate_hash": "9a7880ae9865951ed3f7bc8294d12bcdfb965a99"
           }
         },
         {
-          "client_id": "519900212025-61ea9pehk4pb201biopo217dt6gqavrs.apps.googleusercontent.com",
+          "client_id": "886937434651-59494rhkm0erj9hmk25nf1pi6fi0v9hp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.bella",
-            "certificate_hash": "3c43d0c08908e3a3b012932e3c6ddc6509ae3257"
+            "package_name": "com.weconnectgroup.fire",
+            "certificate_hash": "dc8543f042a014b68aa344eb6e12353876bbfe61"
           }
         },
         {
-          "client_id": "519900212025-gge9npi52v0r92kjcd9mi3u0ek040fi3.apps.googleusercontent.com",
+          "client_id": "886937434651-j68ppst1j93tcbic3h877irghg9fd41p.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.bella",
-            "certificate_hash": "8b534ba463fe64b4d1a74bd815a9c7daa1fe6c85"
+            "package_name": "com.weconnectgroup.fire",
+            "certificate_hash": "d19f09c1f120efbe00647dcc0f29a5d4776ab3a2"
           }
         },
         {
-          "client_id": "519900212025-t0p2cbps0vgdahod7lau2icb7cbe7aq5.apps.googleusercontent.com",
+          "client_id": "886937434651-sugn3bsl7f8fhtoddqgldiqpg83qbg57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.bella",
-            "certificate_hash": "acb613de89b0655a482ccbcb1e37287e510616c8"
+            "package_name": "com.weconnectgroup.fire",
+            "certificate_hash": "e8295ea3b1895b5eee88a28b33bd80051f0d9aca"
           }
         },
         {
-          "client_id": "519900212025-157reaj804ndv16de3p517s8qedt4cro.apps.googleusercontent.com",
+          "client_id": "886937434651-lfou835773p7k35e9ha6vrbmp4o60m0b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBpxjr7jCjEYpa6Fkud4XDXQdg2W6T-lvY"
+          "current_key": "AIzaSyAaQRjO07S_Hxr0ffOyO1IXYPaockDjMis"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "519900212025-157reaj804ndv16de3p517s8qedt4cro.apps.googleusercontent.com",
+              "client_id": "886937434651-edq4i9mmul0ml4tru5hjg5moril3k2pk.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "519900212025-4utpj85p2vib8vbhvl36s18eedduut46.apps.googleusercontent.com",
+              "client_id": "886937434651-t87l1q6i9479te9tceuscq0pcrgs7t28.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.shriswapra.bella"
+                "bundle_id": "com.weconnectgroup.fire"
               }
             }
           ]

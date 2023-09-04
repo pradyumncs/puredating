@@ -61,24 +61,27 @@ const PackageItem = ({ purchasePackage, setIsPurchasing }) => {
     }
 
     const gettypepackage = (type) => {
-        if (type == 'a_1week') return '1'
-        if (type == 'b_1month') return '1'
-        if (type == 'c_3month') return '3'
-        if (type == 'd_6month') return '6'
-    }
+        if (type.includes('a_1week')) return '1';
+        if (type.includes('b_1month')) return '1';
+        if (type.includes('c_3month')) return '3';
+        if (type.includes('d_6month')) return '6';
+    };
+    
     const gettypepackagemonth = (type) => {
-        if (type == 'a_1week') return 'week'
-        if (type == 'b_1month') return 'month'
-        if (type == 'c_3month') return 'months'
-        if (type == 'd_6month') return 'months'
-    }
+        if (type.includes('a_1week')) return 'week';
+        if (type.includes('b_1month')) return 'month';
+        if (type.includes('c_3month')) return 'months';
+        if (type.includes('d_6month')) return 'months';
+        
+    };
 
     const popular = (type) => {
-        if (type == 'a_1week') return '🔥 SAVE 65%'
-        if (type == 'b_1month') return 'POPULAR'
-        if (type == 'c_3month') return '🔥 SAVE 90%'
-        if (type == 'd_6month') return '🔥 SAVE 65%'
-    }
+        if (type.includes('a_1week')) return '🔥 SAVE 65%';
+        if (type.includes('b_1month')) return 'POPULAR';
+        if (type.includes('c_3month')) return '🔥 SAVE 90%';
+        if (type.includes('d_6month')) return '🔥 SAVE 65%';
+    };
+    
 
     return (
 
@@ -110,20 +113,24 @@ const PackageItem = ({ purchasePackage, setIsPurchasing }) => {
                     <View style={tw("items-center pt-8")}>
 
                         <Text style={styles.date}>{gettypepackage(identifier)}</Text>
+                       
 
 
                     </View>
                     <View style={tw("items-center")}>
 
                         <Text style={styles.month}>{gettypepackagemonth(identifier)}</Text>
-
+                      
 
                     </View>
+
+                    
 
                     <View style={tw("items-center pt-10")}>
 
 
                         <Text style={[tw("items-center font-semibold"), styles.price]}>{priceString}</Text>
+                       
 
                     </View>
 
@@ -213,6 +220,3 @@ const styles = StyleSheet.create({
 })
 
 export default PackageItem;
-
-
-

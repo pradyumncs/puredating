@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Bella",
-    "slug": "bella",
-    "owner": "shriswapra",
-    "version": "1.0.0",
+    "name": "Fire",
+    "slug": "fire",
+    "owner": "weconnectgroup",
+    "version": "1.0.3",
     "plugins": [
       [
         "expo-build-properties",
@@ -40,8 +40,8 @@
     "ios": {
       "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true,
-      "bundleIdentifier": "com.shriswapra.bella",
-      "buildNumber": "1",
+      "bundleIdentifier": "com.weconnectgroup.fire",
+      "buildNumber": "3",
       "infoPlist": {
         "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
         "ACCESS_BACKGROUND_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
@@ -57,15 +57,15 @@
         "foregroundImage": "./appassets/logoo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.shriswapra.bella",
-      "versionCode": 1
+      "package": "com.weconnectgroup.fire",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./appassets/logo.png"
     },
     "extra": {
       "eas": {
-        "projectId": "606b9bf1-0adc-40e2-848d-fd50647a346f"
+        "projectId": "bf709868-20f0-4d92-ba6d-fc6ca4f1b18c"
       }
     }
   }

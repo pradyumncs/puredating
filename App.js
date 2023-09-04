@@ -11,7 +11,7 @@ import { AuthProvider } from './hooks/useAuth';
 import { useTailwind } from "tailwind-rn";
 import Purchases, { PurchasesOffering } from 'react-native-purchases';
 const APIKeys = {
-  google: "goog_UMqUvqDjekOUTLZMKJONDRxfTcN",
+  google: "goog_zskOxhxNsFQDdzwcQwfrGXPASGP",
 };
 const entitlement_id = 'pro';
 
