@@ -102,7 +102,7 @@ const Premiumoffer = () => {
 
                     <View style={tw(" text-center")}>
                         <Text style={[tw(" text-center"), styles.hyperli]}
-                            onPress={() => { Linking.openURL('https://justpaste.it/412vm') }}>
+                            onPress={() => { Linking.openURL('https://justpaste.it/d34ij') }}>
                             Terms of Use and Privacy policy {"\n"} </Text>
 
                     </View>

@@ -1,9 +1,8 @@
 {
   "expo": {
-    "name": "Fire",
-    "slug": "fire",
-    "owner": "weconnectgroup",
-    "version": "1.0.3",
+    "name": "Truly Black",
+    "slug": "trulyblack",
+    "version": "1.0.0",
     "plugins": [
       [
         "expo-build-properties",
@@ -40,8 +39,8 @@
     "ios": {
       "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true,
-      "bundleIdentifier": "com.weconnectgroup.fire",
-      "buildNumber": "3",
+      "bundleIdentifier": "com.shriswapra.trulyblack",
+      "buildNumber": "1",
       "infoPlist": {
         "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
         "ACCESS_BACKGROUND_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
@@ -57,15 +56,15 @@
         "foregroundImage": "./appassets/logoo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.weconnectgroup.fire",
-      "versionCode": 3
+      "package": "com.shriswapra.trulyblack",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./appassets/logo.png"
     },
     "extra": {
       "eas": {
-        "projectId": "bf709868-20f0-4d92-ba6d-fc6ca4f1b18c"
+        "projectId": "2a7081fb-08ec-4741-b90d-4d6158cf5066"
       }
     }
   }

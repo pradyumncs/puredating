@@ -1,72 +1,72 @@
 {
   "project_info": {
-    "project_number": "886937434651",
-    "project_id": "fire-e6439",
-    "storage_bucket": "fire-e6439.appspot.com"
+    "project_number": "394777516054",
+    "project_id": "trulyblack-f5627",
+    "storage_bucket": "trulyblack-f5627.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:886937434651:android:a2043401b352be6eb216be",
+        "mobilesdk_app_id": "1:394777516054:android:6deef523e86f0a857e7d37",
         "android_client_info": {
-          "package_name": "com.weconnectgroup.fire"
+          "package_name": "com.shriswapra.trulyblack"
         }
       },
       "oauth_client": [
         {
-          "client_id": "886937434651-0cseju95rnhspit3fjciqurfi0cta7bj.apps.googleusercontent.com",
+          "client_id": "394777516054-14e8c5uot4g9jet91hhahf46stopr3o2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "9a7880ae9865951ed3f7bc8294d12bcdfb965a99"
+            "package_name": "com.shriswapra.trulyblack",
+            "certificate_hash": "403a6a1bfc78947bc28f4eb987d30f5a037d9418"
           }
         },
         {
-          "client_id": "886937434651-59494rhkm0erj9hmk25nf1pi6fi0v9hp.apps.googleusercontent.com",
+          "client_id": "394777516054-30u2ehdpcj1t1um688k3ucnn9tt85b6k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "dc8543f042a014b68aa344eb6e12353876bbfe61"
+            "package_name": "com.shriswapra.trulyblack",
+            "certificate_hash": "a7078063fee30db6e0b028ca371019c5e227e019"
           }
         },
         {
-          "client_id": "886937434651-j68ppst1j93tcbic3h877irghg9fd41p.apps.googleusercontent.com",
+          "client_id": "394777516054-hat2ij3kd8sgn10hustvgjovnnjgaqdu.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "d19f09c1f120efbe00647dcc0f29a5d4776ab3a2"
+            "package_name": "com.shriswapra.trulyblack",
+            "certificate_hash": "c1af1dac7884ddf2fe3e9201a87382b88d0e5aab"
           }
         },
         {
-          "client_id": "886937434651-sugn3bsl7f8fhtoddqgldiqpg83qbg57.apps.googleusercontent.com",
+          "client_id": "394777516054-v6rgh51rbhn1r6vik4jhu9dsecl1brao.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "e8295ea3b1895b5eee88a28b33bd80051f0d9aca"
+            "package_name": "com.shriswapra.trulyblack",
+            "certificate_hash": "b27919de1c7a48fd9a0a729326902fc5539ac6f8"
           }
         },
         {
-          "client_id": "886937434651-lfou835773p7k35e9ha6vrbmp4o60m0b.apps.googleusercontent.com",
+          "client_id": "394777516054-7ibtm099b70sjd97lk8rn7ieepl3he6t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAaQRjO07S_Hxr0ffOyO1IXYPaockDjMis"
+          "current_key": "AIzaSyCAapfuj1Ug9zQJoMOfL-96swQxeIUSI54"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "886937434651-edq4i9mmul0ml4tru5hjg5moril3k2pk.apps.googleusercontent.com",
+              "client_id": "394777516054-7ibtm099b70sjd97lk8rn7ieepl3he6t.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "886937434651-t87l1q6i9479te9tceuscq0pcrgs7t28.apps.googleusercontent.com",
+              "client_id": "394777516054-uspe0qlsefnpdnu1elvoi9afotl5g5ag.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.weconnectgroup.fire"
+                "bundle_id": "com.shriswapra.trulyblack"
               }
             }
           ]

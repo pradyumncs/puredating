@@ -60,7 +60,7 @@ const ChatList = () => {
                     <View style={tw("items-center pt-1")}>
                         <Image
                             style={tw("w-64 h-64")}
-                            source={require("../assets/messagegif2.gif")}
+                            source={require("../assets/images/Row1/messagegif2.gif")}
                         />
                         <View style={tw("p-3")}></View>
                         <View style={tw("p-3")}></View>

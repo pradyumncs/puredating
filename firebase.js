@@ -8,13 +8,13 @@ import { getStorage } from "firebase/storage";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDOVjoPmsdabIRIZx8aHhn__JQYvM-IieU",
-    authDomain: "fire-e6439.firebaseapp.com",
-    projectId: "fire-e6439",
-    storageBucket: "fire-e6439.appspot.com",
-    messagingSenderId: "886937434651",
-    appId: "1:886937434651:web:7875b634b348819cb216be",
-    measurementId: "G-RKBCCTET5Y"
+    apiKey: "AIzaSyDkNd9OXi3Ww4dpjqE2pRGHqB0Z3U41ZbI",
+    authDomain: "trulyblack-f5627.firebaseapp.com",
+    projectId: "trulyblack-f5627",
+    storageBucket: "trulyblack-f5627.appspot.com",
+    messagingSenderId: "394777516054",
+    appId: "1:394777516054:web:671b55865a8aee117e7d37",
+    measurementId: "G-ME7FWDTDKT"
   };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);

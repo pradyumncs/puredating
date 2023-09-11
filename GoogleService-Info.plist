@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>886937434651-t87l1q6i9479te9tceuscq0pcrgs7t28.apps.googleusercontent.com</string>
+	<string>394777516054-uspe0qlsefnpdnu1elvoi9afotl5g5ag.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.886937434651-t87l1q6i9479te9tceuscq0pcrgs7t28</string>
+	<string>com.googleusercontent.apps.394777516054-uspe0qlsefnpdnu1elvoi9afotl5g5ag</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>886937434651-0cseju95rnhspit3fjciqurfi0cta7bj.apps.googleusercontent.com</string>
+	<string>394777516054-14e8c5uot4g9jet91hhahf46stopr3o2.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBmOIkmQsqgMaxUOsaRodC22Bf1nI-hnoM</string>
+	<string>AIzaSyDhxGV4pnHt7hYexRDCMc_mvGKkt0DNweo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>886937434651</string>
+	<string>394777516054</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.weconnectgroup.fire</string>
+	<string>com.shriswapra.trulyblack</string>
 	<key>PROJECT_ID</key>
-	<string>fire-e6439</string>
+	<string>trulyblack-f5627</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fire-e6439.appspot.com</string>
+	<string>trulyblack-f5627.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:886937434651:ios:6af6417212c9dbdfb216be</string>
+	<string>1:394777516054:ios:e93ea01ec9f7fcfa7e7d37</string>
 </dict>
 </plist>
