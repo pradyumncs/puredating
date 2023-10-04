@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "Fire",
-    "slug": "fire",
-    "owner": "weconnectgroup",
+    "name": "African Social",
+    "slug": "africansocial",
     "version": "1.0.3",
     "plugins": [
       [
@@ -40,8 +39,8 @@
     "ios": {
       "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true,
-      "bundleIdentifier": "com.weconnectgroup.fire",
-      "buildNumber": "3",
+      "bundleIdentifier": "com.shriswapra.africansocial",
+      "buildNumber": "2",
       "infoPlist": {
         "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
         "ACCESS_BACKGROUND_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
@@ -57,7 +56,7 @@
         "foregroundImage": "./appassets/logoo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.weconnectgroup.fire",
+      "package": "com.shriswapra.africansocial",
       "versionCode": 3
     },
     "web": {
@@ -65,7 +64,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "bf709868-20f0-4d92-ba6d-fc6ca4f1b18c"
+        "projectId": "859e9d3e-7a01-4849-baaf-39e5d4cadab7"
       }
     }
   }

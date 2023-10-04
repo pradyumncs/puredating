@@ -1,72 +1,72 @@
 {
   "project_info": {
-    "project_number": "886937434651",
-    "project_id": "fire-e6439",
-    "storage_bucket": "fire-e6439.appspot.com"
+    "project_number": "231123907234",
+    "project_id": "africansocial-f5d0c",
+    "storage_bucket": "africansocial-f5d0c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:886937434651:android:a2043401b352be6eb216be",
+        "mobilesdk_app_id": "1:231123907234:android:8114db7e74fa378eb69dfb",
         "android_client_info": {
-          "package_name": "com.weconnectgroup.fire"
+          "package_name": "com.shriswapra.africansocial"
         }
       },
       "oauth_client": [
         {
-          "client_id": "886937434651-0cseju95rnhspit3fjciqurfi0cta7bj.apps.googleusercontent.com",
+          "client_id": "231123907234-a9am2dtrhlhtmpu0omt14eeakfh1bojj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "9a7880ae9865951ed3f7bc8294d12bcdfb965a99"
+            "package_name": "com.shriswapra.africansocial",
+            "certificate_hash": "79821d5916d834886a8ab05abfbff050286d6f14"
           }
         },
         {
-          "client_id": "886937434651-59494rhkm0erj9hmk25nf1pi6fi0v9hp.apps.googleusercontent.com",
+          "client_id": "231123907234-gf9s6h29dlbirsov45lmpn0br1ovcjvp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "dc8543f042a014b68aa344eb6e12353876bbfe61"
+            "package_name": "com.shriswapra.africansocial",
+            "certificate_hash": "db54dfdfb59943cee5595ae4c7eba905e6ff315b"
           }
         },
         {
-          "client_id": "886937434651-j68ppst1j93tcbic3h877irghg9fd41p.apps.googleusercontent.com",
+          "client_id": "231123907234-mqrmtk51rs1trfq44ddulc22bich0f7h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "d19f09c1f120efbe00647dcc0f29a5d4776ab3a2"
+            "package_name": "com.shriswapra.africansocial",
+            "certificate_hash": "39888f0fa9f4b1b3f373bb00276df80a656f6068"
           }
         },
         {
-          "client_id": "886937434651-sugn3bsl7f8fhtoddqgldiqpg83qbg57.apps.googleusercontent.com",
+          "client_id": "231123907234-mu7rlfpo3scjnbr7ffgf872umjht0845.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.weconnectgroup.fire",
-            "certificate_hash": "e8295ea3b1895b5eee88a28b33bd80051f0d9aca"
+            "package_name": "com.shriswapra.africansocial",
+            "certificate_hash": "929ac907233f8920c605964d6b322186d77679ed"
           }
         },
         {
-          "client_id": "886937434651-lfou835773p7k35e9ha6vrbmp4o60m0b.apps.googleusercontent.com",
+          "client_id": "231123907234-nbp0stjddj09jqk8md16lidecr9k4dqi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAaQRjO07S_Hxr0ffOyO1IXYPaockDjMis"
+          "current_key": "AIzaSyAG1my39WXbN4R-G4adMzjbeEHGg5dMWJc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "886937434651-edq4i9mmul0ml4tru5hjg5moril3k2pk.apps.googleusercontent.com",
+              "client_id": "231123907234-nbp0stjddj09jqk8md16lidecr9k4dqi.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "886937434651-t87l1q6i9479te9tceuscq0pcrgs7t28.apps.googleusercontent.com",
+              "client_id": "231123907234-qenrghecanpgp8gan4t65i649abuko73.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.weconnectgroup.fire"
+                "bundle_id": "com.shriswapra.africansocial"
               }
             }
           ]

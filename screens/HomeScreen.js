@@ -478,7 +478,7 @@ const HomeScreen = () => {
                     <View style={tw("flex-row items-center pt-1")}>
                         <MaterialCommunityIcons name="brightness-percent" size={20} color="pink" />
                         <Text style={tw("text-center text-pink-600 font-bold text-base")}>
-                            90% Off
+                            60% Off
                         </Text>
 
                     </View>
@@ -846,6 +846,7 @@ const HomeScreen = () => {
                     <View style={styles.centeredView}>
 
                         <View style={styles.PremiumView}>
+                        
 
                             <ImageBackground
                                 resizeMode="cover"
@@ -863,10 +864,40 @@ const HomeScreen = () => {
 
 
                                 </TouchableOpacity>
-                                <View style={tw("p-3")}></View>
+                                <TouchableOpacity style={[
+                                tw(
+                                    "absolute top-0 right-0 "
+                                )
 
+                            ]}>
+
+                                <AntDesign name="closecircle" size={50} color="red"
+                                    onPress={() => setModalPremiuma(!modalPremiuma)}
+                                />
+
+                            </TouchableOpacity>
+                                <View style={tw("p-3")}></View>
+                                
                                 <TouchableOpacity
-                                    style={[tw("rounded-3xl p-3 bg-yellow-400 absolute inset-x-0 bottom-5 "),
+                                    style={[tw("rounded-3xl p-3 bg-red-400 absolute inset-x-0 bottom-20"),
+                                    styles.shadow]}
+                                    onPress={() => setModalPremiuma(!modalPremiuma)}
+                                >
+                                    <Text style={tw("text-center text-black text-lg")}>
+                                        Go Back
+                                    </Text>
+                                </TouchableOpacity>
+
+                              
+                                
+                                
+                                
+
+                                <View style={tw("p-3")}></View>
+                                <View style={tw("p-3")}></View>
+                                <View style={tw("p-1")} />
+                                <TouchableOpacity
+                                    style={[tw("rounded-3xl p-3 bg-yellow-400 absolute inset-x-0 bottom-3 "),
                                     styles.shadow]}
                                     onPress={() => navigation.navigate("Premiumoffer")}
                                 >
@@ -874,9 +905,6 @@ const HomeScreen = () => {
                                         Get Premium
                                     </Text>
                                 </TouchableOpacity>
-
-                                <View style={tw("p-3")}></View>
-                                <View style={tw("p-1")} />
                             </ImageBackground>
                         </View>
 

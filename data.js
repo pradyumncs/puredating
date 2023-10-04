@@ -55,7 +55,7 @@ const data = [
     {
         id: 10,
         title: "Turn Off Ads ☑️",
-        description: "Location: Germany",
+        description: "Location: Germanyy",
         image: require("./assets/img14.png"),
     },
     {
