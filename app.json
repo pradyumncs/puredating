@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "African Social",
-    "slug": "africansocial",
-    "version": "1.0.3",
+    "name": "Ethiopiansocial",
+    "slug": "ethiopiansocial",
+    "version": "1.0.0",
     "plugins": [
       [
         "expo-build-properties",
@@ -39,8 +39,8 @@
     "ios": {
       "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true,
-      "bundleIdentifier": "com.shriswapra.africansocial",
-      "buildNumber": "2",
+      "bundleIdentifier": "com.shriswapra.ethiopiansocial",
+      "buildNumber": "1",
       "infoPlist": {
         "ACCESS_FINE_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
         "ACCESS_BACKGROUND_LOCATION": "Turning on location service allows us access to show when friends are nearby ",
@@ -56,15 +56,15 @@
         "foregroundImage": "./appassets/logoo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.shriswapra.africansocial",
-      "versionCode": 3
+      "package": "com.shriswapra.ethiopiansocial",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./appassets/logo.png"
     },
     "extra": {
       "eas": {
-        "projectId": "859e9d3e-7a01-4849-baaf-39e5d4cadab7"
+        "projectId": "dfd96bf8-43fa-4a05-9745-5d72aaeb57aa"
       }
     }
   }

@@ -8,13 +8,13 @@ import { getStorage } from "firebase/storage";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBDeSozXhJSQGP59BYt-7jGzeBdjQtRYbQ",
-    authDomain: "africansocial-f5d0c.firebaseapp.com",
-    projectId: "africansocial-f5d0c",
-    storageBucket: "africansocial-f5d0c.appspot.com",
-    messagingSenderId: "231123907234",
-    appId: "1:231123907234:web:c896e9a79250b639b69dfb",
-    measurementId: "G-ERC19ZRCDL"
+    apiKey: "AIzaSyBRj_OJy3ZlTQtz5BhXXf8XwRAyEjjdpR4",
+    authDomain: "ethiopiansocial-5e067.firebaseapp.com",
+    projectId: "ethiopiansocial-5e067",
+    storageBucket: "ethiopiansocial-5e067.appspot.com",
+    messagingSenderId: "609023991162",
+    appId: "1:609023991162:web:2adf33cd8697f9747e8ac3",
+    measurementId: "G-E27XMBF95N"
   };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);

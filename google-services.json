@@ -1,72 +1,72 @@
 {
   "project_info": {
-    "project_number": "231123907234",
-    "project_id": "africansocial-f5d0c",
-    "storage_bucket": "africansocial-f5d0c.appspot.com"
+    "project_number": "609023991162",
+    "project_id": "ethiopiansocial-5e067",
+    "storage_bucket": "ethiopiansocial-5e067.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:231123907234:android:8114db7e74fa378eb69dfb",
+        "mobilesdk_app_id": "1:609023991162:android:4d20b44da7f2ca797e8ac3",
         "android_client_info": {
-          "package_name": "com.shriswapra.africansocial"
+          "package_name": "com.shriswapra.ethiopiansocial"
         }
       },
       "oauth_client": [
         {
-          "client_id": "231123907234-a9am2dtrhlhtmpu0omt14eeakfh1bojj.apps.googleusercontent.com",
+          "client_id": "609023991162-5ubvopv9d8qodr370ib5e6i2tad2kkd6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.africansocial",
-            "certificate_hash": "79821d5916d834886a8ab05abfbff050286d6f14"
+            "package_name": "com.shriswapra.ethiopiansocial",
+            "certificate_hash": "452c2a96d4962df6665a348fe791735d7a955c1d"
           }
         },
         {
-          "client_id": "231123907234-gf9s6h29dlbirsov45lmpn0br1ovcjvp.apps.googleusercontent.com",
+          "client_id": "609023991162-8hhoet49clu3fotk12njmc4qeeel8oam.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.africansocial",
-            "certificate_hash": "db54dfdfb59943cee5595ae4c7eba905e6ff315b"
+            "package_name": "com.shriswapra.ethiopiansocial",
+            "certificate_hash": "7a9c3c911d292db26a8fd4ad0d71091023397143"
           }
         },
         {
-          "client_id": "231123907234-mqrmtk51rs1trfq44ddulc22bich0f7h.apps.googleusercontent.com",
+          "client_id": "609023991162-hptjlud19d91b1i1tj47m9h42u4ipose.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.africansocial",
-            "certificate_hash": "39888f0fa9f4b1b3f373bb00276df80a656f6068"
+            "package_name": "com.shriswapra.ethiopiansocial",
+            "certificate_hash": "8e703c22bc19064c48d3db5fffb5232bf4b13eca"
           }
         },
         {
-          "client_id": "231123907234-mu7rlfpo3scjnbr7ffgf872umjht0845.apps.googleusercontent.com",
+          "client_id": "609023991162-ul0egvcm4kb96rard094jh86676rndhm.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.shriswapra.africansocial",
-            "certificate_hash": "929ac907233f8920c605964d6b322186d77679ed"
+            "package_name": "com.shriswapra.ethiopiansocial",
+            "certificate_hash": "29c9950412b5d2f3c04ba7c0eba081ba35a60fed"
           }
         },
         {
-          "client_id": "231123907234-nbp0stjddj09jqk8md16lidecr9k4dqi.apps.googleusercontent.com",
+          "client_id": "609023991162-giuai0i4af8ji2ctn57q71ct0c6po0n6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAG1my39WXbN4R-G4adMzjbeEHGg5dMWJc"
+          "current_key": "AIzaSyDdTwmw4YbfMFrQjQ7TTGlh5vLnNG99OBc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "231123907234-nbp0stjddj09jqk8md16lidecr9k4dqi.apps.googleusercontent.com",
+              "client_id": "609023991162-giuai0i4af8ji2ctn57q71ct0c6po0n6.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "231123907234-qenrghecanpgp8gan4t65i649abuko73.apps.googleusercontent.com",
+              "client_id": "609023991162-jb2thno9fnsbt9j529b6c9ko352pcvak.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.shriswapra.africansocial"
+                "bundle_id": "com.shriswapra.ethiopiansocial"
               }
             }
           ]
